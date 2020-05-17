@@ -10,7 +10,6 @@
     },
     "ad":{
         "open":false,
-        "version":1,
-        "url": "search_rule.json"
+        "version":1
     }
 }
