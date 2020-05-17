@@ -1,6 +1,7 @@
 {
     "update":1589700014,
     "updateInterval":1440,
+    "updateUrl":"https://raw.githubusercontent.com/wizos/so/master/config.json",
     "app":{
         "version":1
     },
