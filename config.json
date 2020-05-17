@@ -1,0 +1,16 @@
+{
+    "update":1589700014,
+    "updateInterval":1440,
+    "app":{
+        "version":1
+    },
+    "rule":{
+        "version":1,
+        "url": "https://raw.githubusercontent.com/wizos/so/master/search_rule.json"
+    },
+    "ad":{
+        "open":false,
+        "version":1,
+        "url": "search_rule.json"
+    }
+}
